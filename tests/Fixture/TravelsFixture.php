@@ -43,8 +43,8 @@ class TravelsFixture extends TestFixture
         [
             'id' => 1,
             'country_id' => 1,
-            'start' => '2017-08-28',
-            'end' => '2017-08-28',
+            'start' => '2017-08-30',
+            'end' => '2017-08-30',
             'price' => 1,
             'guide' => 'Lorem ipsum dolor sit amet',
             'nameGuide' => 'Lorem ipsum dolor sit amet'
